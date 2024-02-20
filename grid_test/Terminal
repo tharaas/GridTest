@@ -1,0 +1,3 @@
+java -jar selenium-server-4.17.0.jar hub
+
+java -jar selenium-server-4.17.0.jar node --port 5555 --selenium-manager true
